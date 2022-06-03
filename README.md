@@ -1,5 +1,12 @@
-### First requirement Python 3.10
+# How to use.
 
+## First requirement Python 3.10
+
+### To run application, in root run:
+
+  `python main.py`
+
+## Now for tests
 ### use the command to create new virtual env
 
 `python -m venv .venv`
